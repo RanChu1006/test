@@ -3,4 +3,13 @@ hello git
 
 add one row at branch fa
 
+<<<<<<< HEAD
 master do someting
+=======
+branch fa do something
+
+
+>>>>>>> test branch fa
+
+solution the conflict
+
